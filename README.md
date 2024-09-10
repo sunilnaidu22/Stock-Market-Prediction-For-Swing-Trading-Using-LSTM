@@ -1,4 +1,4 @@
-# Stock Market Prediction using LSTM
+# Stock Market Prediction for Swing trading And Important Level for Day Trading 
 
 ## Overview
 This project leverages **Long Short-Term Memory (LSTM)**, a type of Recurrent Neural Network (RNN), to predict stock prices. It's tailored for **swing traders and day traders**, utilizing historical price data to predict the next day’s stock price movement. Additionally, the **Put-Call Ratio (PCR)** is calculated from NSE option chain data to enhance market trend predictions.
